@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications
 - 📫 How to reach me: sumitnagrikar1@gmail.com or LinkedIn
 - 😄 Pronouns: He/Him
-- 🛠️ Technologies: I have experience with JavaScript, React, Node.js, and Python
-- 📚 Hobbies: I enjoy reading tech blogs, playing chess, and hiking
+- 🛠️ Technologies: I have experience with JavaScript, React, Node.js, and MongoDB
+- 📚 Hobbies: I enjoy reading tech blogs and hiking
 - 🚀 Career Goals: To become a full-stack developer and contribute to impactful tech projects
 - 💡 Favorite Quote: "The best way to predict the future is to invent it." - Alan Kay
 
